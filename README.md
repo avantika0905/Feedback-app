@@ -14,7 +14,7 @@ A modern, beautiful feedback collection platform built with Next.js, Supabase, a
 - **🏷️ Feedback Categories** - Organize feedback with custom categories and colors
 - **🔍 Advanced Filtering** - Search and filter feedback by category, date, and content
 
-### 🎨 Design Features
+### 🎨 Design Feature
 - **🌈 Vibrant Colors** - Beautiful gradient designs throughout the app
 - **✨ Smooth Animations** - Framer Motion animations for engaging interactions
 - **📱 Responsive Design** - Works perfectly on all devices
